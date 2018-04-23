@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Polynomial
+comment1.params=
+comment1.target=Polynomial()
+comment10.params=p1\ p2
+comment10.target=int\ getMaxOrder(Polynomial,\ Polynomial)
+comment11.params=
+comment11.target=java.lang.String\ PolynomialToString()
+comment12.params=line
+comment12.target=Polynomial\ createPolynomial(java.lang.String)
+comment2.params=maximumOrder
+comment2.target=Polynomial(int)
+comment3.params=maximumOrder\ coefficients
+comment3.target=Polynomial(int,\ double[])
+comment4.params=pol
+comment4.target=Polynomial(Polynomial)
+comment5.params=p
+comment5.target=Polynomial\ add(Polynomial)
+comment6.params=p
+comment6.target=Polynomial\ sub(Polynomial)
+comment7.params=p
+comment7.target=Polynomial\ mult(Polynomial)
+comment8.params=
+comment8.target=Polynomial\ diff()
+comment9.params=
+comment9.target=Polynomial\ integration()
+numComments=13
