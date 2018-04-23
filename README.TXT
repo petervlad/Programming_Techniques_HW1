@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Design and implement an application for polynomial processing.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Consider the polynomials of one variable and double coefficients.
+
+The application will take two polynomials as a string of numbers that are
+the coefficients and will perform some operations with them, those operations
+being addition, subtraction, derivation, integration and miltiplication.
+
